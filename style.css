@@ -3,17 +3,15 @@ body {
     background-color: rgb(255, 210, 152);
 }
 
-h1 {
+header {
     text-align: center;
     font-family: 'Libre Baskerville', serif;
     background-color: rgb(255, 212, 212);
-    margin-left: 400px;
-    margin-right: 400px;
     margin-bottom: 50px;
     border-radius: 10px;
 }
 
-a {
+main a {
     margin-left: 40px;
 }
 
